@@ -131,31 +131,29 @@ Secure storage of:
 
 Example:
 
-## 📸 System Screenshots
+![Admin Dashboard](public/screenshots/admin-dashboard.png)
+![Admission Agent](public/screenshots/admission-agent.png)
+![Admission Manager](public/screenshots/admission-manager.png)
+![Assign Inquiries](public/screenshots/assign-inquiries.png)
+![Counsellor Dashboard](public/screenshots/counsellor-dashboard.png)
+![Daily Report Status](public/screenshots/daily-report-status.png)
+![External Agent Dashboard](public/screenshots/externalagent-dashboard.png)
+![Hot Leads](public/screenshots/hot.png)
+![Import](public/screenshots/import.png)
+![Individual Performance](public/screenshots/individual-performance.png)
+![Inquiry](public/screenshots/inquiry.png)
+![Inquiry Details](public/screenshots/inquiry-details.png)
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
-![Admission Agent](screenshots/admission-agent.png)
-![Admission Manager](screenshots/admission-manager.png)
-![Assign Inquiries](screenshots/assign-inquiries.png)
-![Counsellor Dashboard](screenshots/counsellor-dashboard.png)
-![Daily Report Status](screenshots/daily-report-status.png)
-![External Agent Dashboard](screenshots/externalagent-dashboard.png)
-![Hot Leads](screenshots/hot.png)
-![Import](screenshots/import.png)
-![Individual Performance](screenshots/individual-performance.png)
-![Inquiry](screenshots/inquiry.png)
-![Inquiry Details](screenshots/inquiry-details.png)
-
-![Login](screenshots/login.png)
-![Portal Log](screenshots/portal-log.png)
-![Reassign Inquiries](screenshots/reassign-inquiries.png)
-![Register](screenshots/register.png)
-![Registered Details](screenshots/registyred-details.png)
-![Report](screenshots/report.png)
-![Roles & Permission](screenshots/roles-permission.png)
-![Teams Creation](screenshots/teams-creation.png)
-![Teams Performance](screenshots/teams-performance.png)
-![Users Page](screenshots/users-page.png)
+![Login](public/screenshots/login.png)
+![Portal Log](public/screenshots/portal-log.png)
+![Reassign Inquiries](public/screenshots/reassign-inquiries.png)
+![Register](public/screenshots/register.png)
+![Registered Details](public/screenshots/registyred-details.png)
+![Report](public/screenshots/report.png)
+![Roles & Permission](public/screenshots/roles-permission.png)
+![Teams Creation](public/screenshots/teams-creation.png)
+![Teams Performance](public/screenshots/teams-performance.png)
+![Users Page](public/screenshots/users-page.png)
 
 
 ---
