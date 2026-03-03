@@ -1,0 +1,33 @@
+<?php
+
+namespace App\Providers;
+
+use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\Route;
+use Livewire\Livewire;
+use Illuminate\Support\Facades\View;
+use App\Models\Reminder;
+use Illuminate\Support\Facades\Auth;
+use Carbon\Carbon;
+
+
+class AppServiceProvider extends ServiceProvider
+{
+    /**
+     * Register any application services.
+     */
+    public function register(): void
+    {
+        //
+    }
+
+    /**
+     * Bootstrap any application services.
+     */
+    public function boot()
+    {
+        // Register middleware manually
+        Route::aliasMiddleware('check.status', \App\Http\Middleware\CheckUserStatus::class);
+
+           }
+}
