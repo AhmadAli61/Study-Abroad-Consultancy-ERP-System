@@ -131,9 +131,32 @@ Secure storage of:
 
 Example:
 
-![Dashboard](screenshots/dashboard.png)
-![Inquiry Management](screenshots/inquiry.png)
-![Registered Students](screenshots/registered.png)
+## 📸 System Screenshots
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admission Agent](screenshots/admission-agent.png)
+![Admission Manager](screenshots/admission-manager.png)
+![Assign Inquiries](screenshots/assign-inquiries.png)
+![Counsellor Dashboard](screenshots/counsellor-dashboard.png)
+![Daily Report Status](screenshots/daily-report-status.png)
+![External Agent Dashboard](screenshots/externalagent-dashboard.png)
+![Hot Leads](screenshots/hot.png)
+![Import](screenshots/import.png)
+![Individual Performance](screenshots/individual-performance.png)
+![Inquiry](screenshots/inquiry.png)
+![Inquiry Details](screenshots/inquiry-details.png)
+
+![Login](screenshots/login.png)
+![Portal Log](screenshots/portal-log.png)
+![Reassign Inquiries](screenshots/reassign-inquiries.png)
+![Register](screenshots/register.png)
+![Registered Details](screenshots/registyred-details.png)
+![Report](screenshots/report.png)
+![Roles & Permission](screenshots/roles-permission.png)
+![Teams Creation](screenshots/teams-creation.png)
+![Teams Performance](screenshots/teams-performance.png)
+![Users Page](screenshots/users-page.png)
+
 
 ---
 
