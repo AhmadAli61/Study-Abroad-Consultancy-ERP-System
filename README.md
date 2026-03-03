@@ -131,11 +131,11 @@ Secure storage of:
 
 Example:
 
-![Admin Dashboard](public/screenshots/admin-dashboard.png)
+![Admin Dashboard](public/screenshots/admin-dashborad.png)
 ![Admission Agent](public/screenshots/admission-agent.png)
 ![Admission Manager](public/screenshots/admission-manager.png)
 ![Assign Inquiries](public/screenshots/assign-inquiries.png)
-![Counsellor Dashboard](public/screenshots/counsellor-dashboard.png)
+![Counsellor Dashboard](public/screenshots/counsellor-dashborad.png)
 ![Daily Report Status](public/screenshots/daily-report-status.png)
 ![External Agent Dashboard](public/screenshots/externalagent-dashboard.png)
 ![Hot Leads](public/screenshots/hot.png)
@@ -145,10 +145,10 @@ Example:
 ![Inquiry Details](public/screenshots/inquiry-details.png)
 
 ![Login](public/screenshots/login.png)
-![Portal Log](public/screenshots/portal-log.png)
+![Portal Log](public/screenshots/Portal-Log.png)
 ![Reassign Inquiries](public/screenshots/reassign-inquiries.png)
 ![Register](public/screenshots/register.png)
-![Registered Details](public/screenshots/registyred-details.png)
+![Registered Details](public/screenshots/regisytered-details.png)
 ![Report](public/screenshots/report.png)
 ![Roles & Permission](public/screenshots/roles-permission.png)
 ![Teams Creation](public/screenshots/teams-creation.png)
