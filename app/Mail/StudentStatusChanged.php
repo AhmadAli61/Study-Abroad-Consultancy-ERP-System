@@ -38,8 +38,8 @@ class StudentStatusChanged extends Mailable
      */
     public function build()
     {
-        return $this->from('noreply@7skyportal.ramadanumrah2025.co.uk', '7Sky Consultancy')
-                    ->replyTo('do-not-reply@7skyportal.ramadanumrah2025.co.uk', 'Do Not Reply')
+        return $this->from('noreply@companyportal.ramadanumrah2025.co.uk', 'company Consultancy')
+                    ->replyTo('do-not-reply@companyportal.ramadanumrah2025.co.uk', 'Do Not Reply')
                     ->subject($this->getSubject())
                     ->view('emails.student-status-changed')
                     ->withHeaders([

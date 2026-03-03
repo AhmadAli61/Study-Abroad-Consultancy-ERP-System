@@ -12,12 +12,12 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <title>Login to 7 Sky Portal</title>
+    <title>Login to company Portal</title>
 
     <meta name="description" content="" />
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{ asset('build/assets/img/7skylogo.png') }}" />
+    <link rel="icon" type="image/x-icon" href="{{ asset('build/assets/img/companylogo.png') }}" />
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />

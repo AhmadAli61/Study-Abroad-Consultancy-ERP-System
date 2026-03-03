@@ -23,7 +23,7 @@ class ApplicationSubmissionConfirmation extends Mailable
     {
         $this->inquiry = $inquiry;
         $this->studentEmail = $studentEmail;
-        $this->companyEmail = 'admission@7skyconsultancy.com';
+        $this->companyEmail = 'admission@companyconsultancy.com';
         $this->companyPhone = '+92 3021495826';
     }
 
@@ -32,9 +32,9 @@ class ApplicationSubmissionConfirmation extends Mailable
      */
     public function build()
     {
-        return $this->from('noreply@7skyportal.ramadanumrah2025.co.uk', '7Sky Consultancy')
-                    ->replyTo('do-not-reply@7skyportal.ramadanumrah2025.co.uk', 'Do Not Reply')
-                    ->subject('Application Successfully Registered – 7 Sky Consultancy')
+        return $this->from('noreply@companyportal.ramadanumrah2025.co.uk', 'company Consultancy')
+                    ->replyTo('do-not-reply@companyportal.ramadanumrah2025.co.uk', 'Do Not Reply')
+                    ->subject('Application Successfully Registered – our company')
                     ->view('emails.application-submission-confirmation')
                     ->withHeaders([
                         'X-Auto-Response-Suppress' => 'OOF, AutoReply',

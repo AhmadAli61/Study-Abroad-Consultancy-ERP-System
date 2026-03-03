@@ -30,7 +30,7 @@ class ApplicationStatusChanged extends Notification implements ShouldQueue
     public function toMail($notifiable)
     {
         return (new MailMessage)
-            ->subject('Application Status Updated - 7Sky Portal')
+            ->subject('Application Status Updated - company Portal')
             ->greeting('Hello ' . $notifiable->username . '!')
             ->line('The status of your application has been updated.')
             ->line('**Student:** ' . $this->application->student_name)

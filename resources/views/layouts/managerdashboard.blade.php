@@ -10,7 +10,7 @@
       <meta name="csrf-token" content="{{ csrf_token() }}">
   
       <!-- Favicon -->
-      <link rel="icon" type="image/x-icon" href="{{ asset('build/assets/img/7skylogo.png') }}" />
+      <link rel="icon" type="image/x-icon" href="{{ asset('build/assets/img/companylogo.png') }}" />
   
       <!-- Fonts -->
       <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -66,7 +66,7 @@
                 <div class="app-brand demo">
                     <a href="#" class="app-brand-link">
                       <span class=" demo">
-                        <img src="{{ asset('build/assets/img/7skylogo.png') }}" alt="7 Sky Logo" style="width: 50px; height: auto;">
+                        <img src="{{ asset('build/assets/img/companylogo.png') }}" alt="company Logo" style="width: 50px; height: auto;">
                     </span>
                     <span class="app-brand-text demo menu-text fw-bold" style="
   font-family: 'Lucida Handwriting', cursive;

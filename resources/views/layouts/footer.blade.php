@@ -8,7 +8,7 @@
           <script>
             document.write(new Date().getFullYear());
           </script>
-          , made with ❤️ by <a href="https://www.7skyconsultancy.com/" target="_blank" class="fw-semibold">7 Sky Consultancy</a>
+          , made with ❤️ by <a href="https://www.companyconsultancy.com/" target="_blank" class="fw-semibold">our company</a>
         </div>
       </div>
     </div>

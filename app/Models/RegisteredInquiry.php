@@ -221,7 +221,7 @@ protected static function sendStudentStatusChangeEmail($inquiry, $oldStatus, $ne
         }
         
         // Use fixed company contact details
-        $companyEmail = 'admission@7skyconsultancy.com';
+        $companyEmail = 'admission@companyconsultancy.com';
         $companyPhone = '+92 3021495826';
         
         // Check for other active applications ONLY for negative status changes
@@ -304,7 +304,7 @@ protected static function getOtherActiveApplications($currentInquiry)
         }
         
         // Use fixed company contact details
-        $companyEmail = 'admission@7skyconsultancy.com';
+        $companyEmail = 'admission@companyconsultancy.com';
         $companyPhone = '+92 3021495826';
         
         // Send the email

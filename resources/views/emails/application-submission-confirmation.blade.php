@@ -154,14 +154,14 @@
   </tr>
 </table>
             <h1>Application Registered Successfully</h1>
-            <p>7 Sky Consultancy</p>
+            <p>our company</p>
         </div>
         <div class="content">
             <div class="greeting">Dear <strong>{{ $inquiry->student_name }}</strong>,</div>
             <div class="confirmation-box">
                 <div class="confirmation-title">Congratulations!</div>
                 <div class="confirmation-message">
-                    Your application has been successfully registered with <strong>7 Sky Consultancy</strong>. Your admission process has officially started.
+                    Your application has been successfully registered with <strong>our company</strong>. Your admission process has officially started.
                 </div>
             </div>
             <div class="application-details">
@@ -212,8 +212,8 @@
         </div>
         <div class="footer">
             <p>Best regards,</p>
-            <p><strong>7 Sky Consultancy Team</strong></p>
-            <small>© 2025 7 Sky Consultancy. All rights reserved.<br>This is an automated confirmation message — please do not reply.</small>
+            <p><strong>our company Team</strong></p>
+            <small>© 2025 our company. All rights reserved.<br>This is an automated confirmation message — please do not reply.</small>
         </div>
     </div>
 </body>

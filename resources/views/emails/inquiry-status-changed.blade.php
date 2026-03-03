@@ -475,12 +475,12 @@
             <div class="cta-section">
                 <div class="cta-title">Track Application Progress</div>
                 <p>Check complete application details and track progress in your dashboard:</p>
-                <a href="https://7skyportal.ramadanumrah2025.co.uk/" class="portal-link">
-                    Go to 7Sky Portal
+                <a href="https://companyportal.ramadanumrah2025.co.uk/" class="portal-link">
+                    Go to company Portal
                 </a>
             </div>
             
-            <p>Thank you for using 7Sky Portal.</p>
+            <p>Thank you for using company Portal.</p>
         </div>
         
         <div style="text-align: center; margin: 20px 0; padding: 15px; background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 5px;">
@@ -490,12 +490,12 @@
         </div>
         
         <div class="footer">
-            <p>Best regards,<br><strong>7Sky Admission Team</strong></p>
+            <p>Best regards,<br><strong>company Admission Team</strong></p>
             <div class="footer-links">
-                <p>© 2025 7Sky Portal. All rights reserved.</p>
+                <p>© 2025 company Portal. All rights reserved.</p>
                 <p>
-                    <a href="https://7skyportal.ramadanumrah2025.co.uk/">
-                        7skyportal.ramadanumrah2025.co.uk
+                    <a href="https://companyportal.ramadanumrah2025.co.uk/">
+                        companyportal.ramadanumrah2025.co.uk
                     </a>
                 </p>
             </div>

@@ -31,8 +31,8 @@ class NotesNotification extends Mailable
      */
     public function build()
     {
-        return $this->from('noreply@7skyportal.ramadanumrah2025.co.uk', '7Sky Portal')
-                    ->replyTo('do-not-reply@7skyportal.ramadanumrah2025.co.uk', 'Do Not Reply')
+        return $this->from('noreply@companyportal.ramadanumrah2025.co.uk', 'company Portal')
+                    ->replyTo('do-not-reply@companyportal.ramadanumrah2025.co.uk', 'Do Not Reply')
                     ->subject('New Message - Application ' . $this->inquiry->unique_id)
                     ->view('emails.notes-notification')
                     ->withHeaders([

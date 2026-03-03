@@ -458,26 +458,26 @@
                 <div class="cta-description">
                     Check the complete message thread and respond in the portal
                 </div>
-                <a href="https://7skyportal.ramadanumrah2025.co.uk/" class="portal-link text-white">
+                <a href="https://companyportal.ramadanumrah2025.co.uk/" class="portal-link text-white">
                     <i class="fas fa-external-link-alt"></i> View Application in Portal
                 </a>
             </div>
             
             <p style="text-align: center; color: #666; font-size: 14px;">
-                Thank you for using 7Sky Portal.
+                Thank you for using company Portal.
             </p>
         </div>
         
         <div class="footer">
             <p class="text-white">Best regards,</p>
-            <p style="font-weight: 700; font-size: 16px;" class="text-white">7Sky Admission Team</p>
+            <p style="font-weight: 700; font-size: 16px;" class="text-white">company Admission Team</p>
             
             <div class="signature">
                 <div class="footer-links text-white">
-                    <p>© 2025 7Sky Portal. All rights reserved.</p>
+                    <p>© 2025 company Portal. All rights reserved.</p>
                     <p>
-                        <a href="https://7skyportal.ramadanumrah2025.co.uk/">
-                            7skyportal.ramadanumrah2025.co.uk
+                        <a href="https://companyportal.ramadanumrah2025.co.uk/">
+                            companyportal.ramadanumrah2025.co.uk
                         </a>
                     </p>
                 </div>

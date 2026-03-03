@@ -78,7 +78,7 @@ class AddApplication extends Component
     
      if ($existingInquiry) {
         session()->flash('error', 
-            "This number {$this->student_contact} already exists in system as student. Please contact 7 Sky Consultancy team to resolve this."
+            "This number {$this->student_contact} already exists in system as student. Please contact our company team to resolve this."
         );
         return;
     }

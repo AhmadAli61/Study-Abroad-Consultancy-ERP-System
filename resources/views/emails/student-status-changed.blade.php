@@ -313,7 +313,7 @@
     <div class="container">
         <div class="header">
             <h1>Application Status Update</h1>
-            <p>7 Sky Consultancy</p>
+            <p>our company</p>
         </div>
         
         <div class="content">
@@ -379,7 +379,7 @@
             <div class="closure-notice">
                 <div class="success-title">📁 Application Case Closed</div>
                 <p>We would like to inform you that your application has been closed by our admission team.</p>
-                <p>While our formal engagement concludes here, we want to express our sincere appreciation for considering 7 Sky Consultancy for your educational journey. It has been our pleasure to assist you thus far.</p>
+                <p>While our formal engagement concludes here, we want to express our sincere appreciation for considering our company for your educational journey. It has been our pleasure to assist you thus far.</p>
                 <p>Should your circumstances change or if you wish to explore other educational opportunities in the future, please know that our doors remain open to assist you.</p>
             </div>
             @endif
@@ -611,15 +611,15 @@
             </p>
             
             <p style="text-align: center; color: #666;">
-                Thank you for trusting <strong>7 Sky Consultancy</strong> with your educational journey.
+                Thank you for trusting <strong>our company</strong> with your educational journey.
             </p>
         </div>
         
         <div class="footer">
             <p>With best wishes for your success,</p>
-            <p><strong>The 7 Sky Consultancy Team</strong></p>
+            <p><strong>The our company Team</strong></p>
             <p style="font-size: 12px; opacity: 0.8; color: white;">
-                © 2025 7 Sky Consultancy. All rights reserved.<br>
+                © 2025 our company. All rights reserved.<br>
                 Transforming educational aspirations into achievements.
             </p>
         </div>

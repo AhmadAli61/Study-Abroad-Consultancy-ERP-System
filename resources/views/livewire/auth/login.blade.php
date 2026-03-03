@@ -164,8 +164,8 @@
                         flex-shrink: 0;
                         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
                         <img 
-                            src="{{ asset('build/assets/img/7skylogo.png') }}" 
-                            alt="7 Sky Logo" 
+                            src="{{ asset('build/assets/img/companylogo.png') }}" 
+                            alt="company Logo" 
                             style="
                                 width: 100%;
                                 height: 100%;
@@ -187,7 +187,7 @@
                             background-clip: text;
                             animation: brandGradient 5s ease-in-out infinite;
                             font-family: 'Segoe UI', 'Roboto', sans-serif;">
-                            7 Sky Consultancy
+                            our company
                         </h1>
                         <p style="
                             margin: 5px 0 0 0;
@@ -337,8 +337,8 @@
                     text-align: center; 
                     margin-bottom: 25px;">
                     <img 
-                        src="{{ asset('build/assets/img/7skylogo.png') }}" 
-                        alt="7 Sky Consultancy Logo" 
+                        src="{{ asset('build/assets/img/companylogo.png') }}" 
+                        alt="our company Logo" 
                         style="
                             width: 200px;
                             height: auto;
