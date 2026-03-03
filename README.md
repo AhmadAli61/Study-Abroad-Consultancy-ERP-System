@@ -1,4 +1,4 @@
-# 🎓 Study Abroad Consultancy ERP System
+# Study Abroad Consultancy ERP System
 
 A full-scale ERP and Lead Management System built with **Laravel** and **Livewire** for Study Abroad Consultancy businesses.
 
@@ -6,7 +6,7 @@ This system is designed to manage the complete student lifecycle — from inquir
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This ERP system centralizes operations for study abroad agencies by handling:
 
@@ -23,9 +23,9 @@ The system was built to automate manual processes and increase operational effic
 
 ---
 
-## 🔥 Core Modules
+## Core Modules
 
-### 📌 1. Inquiry Management Module
+### 1. Inquiry Management Module
 - Lead creation & tracking
 - Multi-status workflow (Hot, Cold, Dead, Pending, Registered)
 - Status history tracking
@@ -37,7 +37,7 @@ The system was built to automate manual processes and increase operational effic
 
 ---
 
-### 📌 2. Meta Ads & Campaign Tracking
+### 2. Meta Ads & Campaign Tracking
 - Meta Lead ID storage
 - WhatsApp conversation ID tracking
 - Ad ID & Campaign ID mapping
@@ -50,7 +50,7 @@ This allows performance analysis per campaign & country.
 
 ---
 
-### 📌 3. Registered Student Module
+### 3. Registered Student Module
 Once an inquiry converts, it moves into the registration workflow:
 
 - Unique student ID system
@@ -64,7 +64,7 @@ Once an inquiry converts, it moves into the registration workflow:
 
 ---
 
-### 📌 4. Document Management System
+### 4. Document Management System
 
 Secure storage of:
 
@@ -79,7 +79,7 @@ Secure storage of:
 
 ---
 
-### 📌 5. Assignment & Workflow Engine
+### 5. Assignment & Workflow Engine
 
 - Role-based assignment
 - Status change tracking
@@ -89,7 +89,7 @@ Secure storage of:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Laravel** (Backend Framework)
 - **Livewire** (Reactive UI Components)
@@ -100,7 +100,7 @@ Secure storage of:
 
 ---
 
-## 🧠 Key Architectural Highlights
+## Key Architectural Highlights
 
 - Modular migration structure
 - Status tracking with history preservation
@@ -113,7 +113,7 @@ Secure storage of:
 
 ---
 
-## 👨‍💻 My Role
+## My Role
 
 - Designed complete database architecture
 - Built all backend logic & relationships
@@ -125,11 +125,12 @@ Secure storage of:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 (Add screenshots here)
 
 Example:
+![Login](public/screenshots/login.png)
 
 ![Admin Dashboard](public/screenshots/admin-dashborad.png)
 ![Admission Agent](public/screenshots/admission-agent.png)
@@ -144,7 +145,6 @@ Example:
 ![Inquiry](public/screenshots/inquiry.png)
 ![Inquiry Details](public/screenshots/inquiry-details.png)
 
-![Login](public/screenshots/login.png)
 ![Portal Log](public/screenshots/Portal-Log.png)
 ![Reassign Inquiries](public/screenshots/reassign-inquiries.png)
 ![Register](public/screenshots/register.png)
