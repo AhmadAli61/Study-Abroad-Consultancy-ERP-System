@@ -127,9 +127,6 @@ Secure storage of:
 
 ## Screenshots
 
-(Add screenshots here)
-
-Example:
 ![Login](public/screenshots/login.png)
 
 ![Admin Dashboard](public/screenshots/admin-dashborad.png)
